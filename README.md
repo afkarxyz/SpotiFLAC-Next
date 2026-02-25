@@ -7,10 +7,9 @@
 > The repository [https://github.com/afkarxyz/SpotiFLAC](https://github.com/afkarxyz/SpotiFLAC) **is back** and has been updated.
 > You can continue using the current version as usual.
 >
-> **SpotiFLAC Next** is a separate next-generation project that is still under active development. Once released, it will be available exclusively to existing supporters on [Ko-fi](https://ko-fi.com/i/IW7W71U0VFW) who already support SpotiFLAC. A public release has not yet been determined.
+> **SpotiFLAC Next** is a separate next-generation project that is still under active development. Once released, it will be available exclusively to existing supporters on [Ko-fi](https://ko-fi.com/i/IW7W71U0VFW) who already support SpotiFLAC, a public release has not yet been determined.
 > 
-> [![Ko-fi](https://img.shields.io/badge/Support%20me%20on%20Ko--fi-Tip-72a5f2?style=for-the-badge&logo=ko-fi&logoColor=72a5f2)](https://ko-fi.com/afkarxyz)
-> <!-- [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Tip-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=ffdd00)](https://buymeacoffee.com/afkarxyz) -->
+> [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/afkarxyz)
 
 > [!NOTE]
 > **SpotiFLAC Next** introduces major improvements that are not available in the current version, including:
@@ -32,8 +31,8 @@
 | **Track Fetching** | Spotify Web | Spotify Web |
 | **Link Resolver** | Songlink | Songlink, Odesli, IDHS |
 | **Metadata Provider** | Spotify Web | Spotify Web, Deezer API, Tidal API, Qobuz API |
-| **Lyrics Provider** | LRCLIB | Spotify Web, Musixmatch, LRCLIB |
-| **Downloader** | Tidal, Qobuz, Amazon Music (Slowly) | Tidal, Qobuz, Amazon Music, Deezer |
+| **Lyrics Provider** | Spotify Web, LRCLIB | Spotify Web, Musixmatch, LRCLIB |
+| **Downloader** | Tidal, Qobuz, Amazon Music (Slowly), Deezer (Slowly) | Tidal, Qobuz, Amazon Music, Deezer |
 
 ## Roadmap
 
