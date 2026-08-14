@@ -17,7 +17,7 @@
 > 
 > If you have any questions or need help with donating, feel free to reach out via [Telegram](https://t.me/afkarxyz) or hi@afkarxyz.fyi
 
-### [Download](https://github.com/spotbye/SpotiFLAC-Next/releases/latest)
+### [Download](https://coffee.spotbye.qzz.io)
 
 ## Preview
 
