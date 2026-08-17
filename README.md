@@ -13,11 +13,11 @@
 </div>
 
 > [!IMPORTANT]
-> This project is shared as a thank-you to those who support [SpotiFLAC](https://github.com/spotbye/SpotiFLAC). It is not a paid product or something being sold, but a complimentary gift available through a private supporter post.
+> This project is available to supporters as a thank-you for supporting [SpotiFLAC's](https://github.com/spotbye/SpotiFLAC) continued development. Access is provided through a private supporter post.
 > 
-> If you have any questions or need help with donating, feel free to reach out via [Telegram](https://t.me/afkarxyz) or hi@afkarxyz.fyi
+> If you have any questions or need help with supporting the project, feel free to reach out via [Telegram](https://t.me/afkarxyz) or hi@afkarxyz.fyi
 
-### [Download](https://coffee.spotbye.qzz.io)
+### [Support the Project](https://coffee.spotbye.qzz.io)
 
 ## Preview
 
