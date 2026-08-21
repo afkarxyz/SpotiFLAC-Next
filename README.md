@@ -21,7 +21,7 @@
 
 ## Preview
 
-![SpotiFLAC-Next](https://github.com/user-attachments/assets/e03f2929-5add-4733-ab5d-2204cadfc73a)
+![SpotiFLAC-Next](https://github.com/user-attachments/assets/d0b4db45-0de5-47a7-a593-8ee30da6ec74)
 
 ## Comparison
 
